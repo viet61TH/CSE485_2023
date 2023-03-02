@@ -1,5 +1,5 @@
 <?php
-   // require 'include\header_global.php';
+    require 'include\header_global.php';
 ?>
 <style>
     body{
@@ -124,5 +124,5 @@
         </div>    
     </main>
 <?php
-    //require 'include\footer_global.php';
+    require 'include\footer_global.php';
 ?>
